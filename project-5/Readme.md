@@ -72,9 +72,6 @@ MIT License – play, share, and remix freely. All wins to you! 🆓
 
 ## Credits
 - Crafted by: M. Anzal (Anzal-Developer) – the grid master.
-- Bug-busting vibes from Grok (xAI) for that flawless fix.
-- Inspired by the eternal X vs O rivalry – no aliens harmed.
-
 ---
 
 *Last Updated: October 25, 2025*  
